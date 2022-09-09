@@ -1,0 +1,25 @@
+@{
+    string[] cats = { "mosca", "miau", "mosca", "pão", "noite" };
+}
+@{
+    ViewData["Title"] = "ListCats";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <table class="table">
+
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nome</th>
+        </tr>
+        @for (int i = 0; i < cats.Count(); i++)
+        {
+            <tr>
+                <td>@(i+1)</td>
+                <td>@cats[i]</td>
+            </tr>
+        }
+    </table>
+</div>
