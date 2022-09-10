@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunovdi\\Documents\\MVCAT\\MVCAT.csproj": {}
+    "C:\\Users\\alunovdi\\Documents\\MVCATS\\MVCAT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunovdi\\Documents\\MVCAT\\MVCAT.csproj": {
+    "C:\\Users\\alunovdi\\Documents\\MVCATS\\MVCAT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunovdi\\Documents\\MVCAT\\MVCAT.csproj",
+        "projectUniqueName": "C:\\Users\\alunovdi\\Documents\\MVCATS\\MVCAT.csproj",
         "projectName": "MVCAT",
-        "projectPath": "C:\\Users\\alunovdi\\Documents\\MVCAT\\MVCAT.csproj",
+        "projectPath": "C:\\Users\\alunovdi\\Documents\\MVCATS\\MVCAT.csproj",
         "packagesPath": "C:\\Users\\alunovdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunovdi\\Documents\\MVCAT\\obj\\",
+        "outputPath": "C:\\Users\\alunovdi\\Documents\\MVCATS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alunovdi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,34 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.Mysql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

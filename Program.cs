@@ -1,5 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using MVCATS.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
+string mysqlConnection = builder.Configuration.GetConnectionString("MysqlConnection");
+builder.Services.AddDbContext<MVCatContext>(opt =>
+{
+    opt.UseMySql(mysqlConnection, ServerVersion.AutoDetect(mysqlConnection));
+});
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

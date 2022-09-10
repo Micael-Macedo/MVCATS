@@ -8,45 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCAT
 build_property.RootNamespace = MVCAT
-build_property.ProjectDir = C:\Users\alunovdi\Documents\MVCAT\
+build_property.ProjectDir = c:\Users\alunovdi\Documents\MVCATS\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\alunovdi\Documents\MVCAT
+build_property.MSBuildProjectDirectory = c:\Users\alunovdi\Documents\MVCATS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/Home/CreateCat.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/Cats/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alunovdi/Documents/MVCATS/Views/Cats/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alunovdi/Documents/MVCATS/Views/Cats/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alunovdi/Documents/MVCATS/Views/Cats/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alunovdi/Documents/MVCATS/Views/Cats/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/alunovdi/Documents/MVCATS/Views/Home/CreateCat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVDYXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/Home/Index.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/Home/ListCats.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/Home/ListCats.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0Q2F0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/Home/Privacy.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/Shared/Error.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/_ViewImports.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/_ViewStart.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alunovdi/Documents/MVCAT/Views/Shared/_Layout.cshtml]
+[c:/Users/alunovdi/Documents/MVCATS/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tpjmhiux3u
